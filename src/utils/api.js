@@ -1,7 +1,8 @@
 import axios from "axios";
 
 const API_BASE_URL =
-  import.meta.env.VITE_API_URL || "http://localhost:5000/api";
+  import.meta.env.VITE_API_URL ||
+  "https://nw4gs0ww0cwgo00o0s4cwkk0.31.97.207.203.sslip.io/api";
 
 // Create axios instance with default config
 const api = axios.create({
