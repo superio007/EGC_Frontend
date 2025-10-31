@@ -76,7 +76,7 @@ A modern, responsive React application for managing personal finances with beaut
 ## 📁 Project Structure
 
 ```
-frontend/
+root/
 ├── public/                 # Static assets
 ├── src/
 │   ├── components/        # React components
